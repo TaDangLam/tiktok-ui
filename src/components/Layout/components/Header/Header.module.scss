@@ -14,12 +14,15 @@
     align-items: center;
     justify-content: space-between;
 }
-.logo {
+// .logo {
 
+// }
+
+.search, .search-result {
+    width: 500px;
 }
 
 .search {
-    width: 500px;
     height: 46px;
     border: 1px solid transparent;
     background: rgba(22, 24, 35, .06);
